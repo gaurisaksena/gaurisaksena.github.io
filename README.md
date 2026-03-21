@@ -19,5 +19,5 @@ To view the website, click on the link below:
 
  https://gaurisaksena.me/
 
-## If you like this project, please give it a 🌟.
-## Thank you 😊.
+
+## Thank you
